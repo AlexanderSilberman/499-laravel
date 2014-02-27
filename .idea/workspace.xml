@@ -26,19 +26,29 @@
       <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="82" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="705">
+            <state line="28" column="82" selection-start="671" selection-end="671" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="705">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/dvds/create.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="21" selection-start="175" selection-end="175" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1110">
               <folding>
-                <marker date="1392712993000" expanded="true" signature="454:476" placeholder="..." />
-                <marker date="1392712993000" expanded="true" signature="746:760" placeholder="..." />
+                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+                <marker date="1393127084000" expanded="true" signature="1083:1226" placeholder="..." />
+                <marker date="1393127084000" expanded="true" signature="1349:1495" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DVD.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/DVD.php">
+      <file leaf-file-name="dvd.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/dvd.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="39" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="840">
+            <state line="38" column="0" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-14.375" vertical-offset="150" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
@@ -53,79 +63,61 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Format.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/Format.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="12" selection-start="108" selection-end="108" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="285">
+              <folding>
+                <element signature="e#6#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="5" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-25.666666" vertical-offset="59" max-vertical-offset="930">
-              <folding>
-                <marker date="1392776409000" expanded="true" signature="1236:1247" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Song1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/Song1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
-              <folding>
-                <element signature="e#6#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Artist.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/Artist.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="96" selection-end="131" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="285">
-              <folding>
-                <element signature="e#6#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Genre.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/Genre.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="34" selection-start="255" selection-end="255" vertical-scroll-proportion="0.26285046" vertical-offset="0" max-vertical-offset="856">
-              <folding>
-                <element signature="e#6#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/songs/create.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="20" selection-start="110" selection-end="110" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="765">
-              <folding>
-                <marker date="1392775592000" expanded="true" signature="140:152" placeholder="..." />
-                <marker date="1392775592000" expanded="true" signature="153:201" placeholder="..." />
-                <marker date="1392775592000" expanded="true" signature="277:898" placeholder="..." />
-                <marker date="1392775592000" expanded="true" signature="347:556" placeholder="..." />
-                <marker date="1392775592000" expanded="true" signature="447:512" placeholder="..." />
-                <marker date="1392775592000" expanded="true" signature="701:765" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Song.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/Song.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="1" selection-start="410" selection-end="410" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="450">
+            <state line="41" column="2" selection-start="1056" selection-end="1056" vertical-scroll-proportion="-6.25" vertical-offset="330" max-vertical-offset="1860">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dvd-list.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Rating.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/Rating.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="2" selection-start="135" selection-end="135" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+              <folding>
+                <element signature="e#6#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DVDController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/DVDController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="6" selection-start="259" selection-end="259" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Genre.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/Genre.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="96" selection-end="134" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="285">
+              <folding>
+                <element signature="e#6#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dvd-list.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/dvds/dvd-list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="90" selection-end="90" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="510">
+            <state line="17" column="38" selection-start="593" selection-end="593" vertical-scroll-proportion="0.3024911" vertical-offset="0" max-vertical-offset="843">
               <folding />
             </state>
           </provider>
@@ -142,23 +134,29 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/controllers/DVDController.php" />
-        <option value="$PROJECT_DIR$/app/models/DVD.php" />
         <option value="$PROJECT_DIR$/app/views/dvds/search.php" />
         <option value="$PROJECT_DIR$/app/views/songs/songs-list.php" />
-        <option value="$PROJECT_DIR$/app/views/dvds/dvd-list.php" />
         <option value="$PROJECT_DIR$/app/models/Artist.php" />
         <option value="$PROJECT_DIR$/app/config/database.php" />
-        <option value="$PROJECT_DIR$/app/views/songs/create.php" />
         <option value="$PROJECT_DIR$/app/models/Song1.php" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/songs/create.php" />
         <option value="$PROJECT_DIR$/app/models/Genre.php" />
+        <option value="$PROJECT_DIR$/app/models/Rating.php" />
+        <option value="$PROJECT_DIR$/app/models/Sound.php" />
+        <option value="$PROJECT_DIR$/app/models/Label.php" />
+        <option value="$PROJECT_DIR$/app/models/Format.php" />
+        <option value="$PROJECT_DIR$/app/models/DVD.php" />
+        <option value="$PROJECT_DIR$/app/views/dvds/create.php" />
+        <option value="$PROJECT_DIR$/app/models/dvd.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/dvds/dvd-list.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="35" />
+    <option name="x" value="-4" />
+    <option name="y" value="155" />
     <option name="width" value="1038" />
     <option name="height" value="1000" />
   </component>
@@ -353,15 +351,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="35" width="1038" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-4" y="155" width="1038" height="1000" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3371869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3371869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -369,11 +367,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -393,6 +391,81 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="82" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/dvd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="39" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="14" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="5" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Song1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Artist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="96" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Genre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="405">
+          <folding>
+            <element signature="e#6#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/songs/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="20" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="765">
+          <folding>
+            <marker date="1392775592000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392775592000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="1" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/dvd-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="19" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/DVDController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="9" selection-start="262" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="510">
@@ -403,14 +476,11 @@
     <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="82" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="705">
-          <folding>
-            <marker date="1392712993000" expanded="true" signature="454:476" placeholder="..." />
-            <marker date="1392712993000" expanded="true" signature="746:760" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/DVD.php">
+    <entry file="file://$PROJECT_DIR$/app/models/dvd.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="39" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="840">
           <folding />
@@ -427,9 +497,7 @@
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="375">
-          <folding>
-            <marker date="1392776409000" expanded="true" signature="1236:1247" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -505,21 +573,9 @@
         <state line="16" column="5" selection-start="376" selection-end="376" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="110" selection-end="110" vertical-scroll-proportion="0.11945392" vertical-offset="0" max-vertical-offset="879" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/DVD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="39" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="840">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/songs/songs-list.php">
@@ -527,20 +583,72 @@
         <state line="8" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="856" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
+    <entry file="file://$PROJECT_DIR$/app/models/Song.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="82" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="705">
+        <state line="23" column="1" selection-start="410" selection-end="410" vertical-scroll-proportion="0.40303737" vertical-offset="0" max-vertical-offset="856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/songs/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="88" selection-end="88" vertical-scroll-proportion="0.08761682" vertical-offset="0" max-vertical-offset="856">
           <folding>
-            <marker date="1392712993000" expanded="true" signature="454:476" placeholder="..." />
-            <marker date="1392712993000" expanded="true" signature="746:760" placeholder="..." />
+            <marker date="1392775592000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392775592000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/DVDController.php">
+    <entry file="file://$PROJECT_DIR$/app/models/Song1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="262" selection-end="263" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435">
+        <state line="10" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.08761682" vertical-offset="0" max-vertical-offset="856">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Artist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="96" selection-end="131" vertical-scroll-proportion="0.052570093" vertical-offset="0" max-vertical-offset="856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Sound.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="107" selection-end="107" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="856">
+          <folding>
+            <element signature="e#6#94#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Label.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="107" selection-end="107" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="856">
+          <folding>
+            <element signature="e#6#94#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="175" selection-end="175" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1110">
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <marker date="1393127084000" expanded="true" signature="1083:1226" placeholder="..." />
+            <marker date="1393127084000" expanded="true" signature="1349:1495" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="108" selection-end="108" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="285">
+          <folding>
+            <element signature="e#6#94#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,67 +659,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Song.php">
+    <entry file="file://$PROJECT_DIR$/app/views/songs/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="410" selection-end="410" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="450">
+        <state line="7" column="35" selection-start="110" selection-end="110" vertical-scroll-proportion="0.12266355" vertical-offset="0" max-vertical-offset="856">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/create.php">
+    <entry file="file://$PROJECT_DIR$/app/models/Rating.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="110" selection-end="110" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="765">
-          <folding>
-            <marker date="1392775592000" expanded="true" signature="140:152" placeholder="..." />
-            <marker date="1392775592000" expanded="true" signature="153:201" placeholder="..." />
-            <marker date="1392775592000" expanded="true" signature="277:898" placeholder="..." />
-            <marker date="1392775592000" expanded="true" signature="347:556" placeholder="..." />
-            <marker date="1392775592000" expanded="true" signature="447:512" placeholder="..." />
-            <marker date="1392775592000" expanded="true" signature="701:765" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Artist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="96" selection-end="131" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="285">
+        <state line="13" column="2" selection-start="135" selection-end="135" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
           <folding>
             <element signature="e#6#94#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dvds/dvd-list.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/DVDController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="90" selection-end="90" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="510">
+        <state line="12" column="6" selection-start="259" selection-end="259" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Song1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
-          <folding>
-            <element signature="e#6#94#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="5" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-25.666666" vertical-offset="59" max-vertical-offset="930">
-          <folding>
-            <marker date="1392776409000" expanded="true" signature="1236:1247" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Genre.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="34" selection-start="255" selection-end="255" vertical-scroll-proportion="0.26285046" vertical-offset="0" max-vertical-offset="856">
+        <state line="8" column="0" selection-start="96" selection-end="134" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="285">
           <folding>
             <element signature="e#6#94#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/dvd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-14.375" vertical-offset="150" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="82" selection-start="671" selection-end="671" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="2" selection-start="1056" selection-end="1056" vertical-scroll-proportion="-6.25" vertical-offset="330" max-vertical-offset="1860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/dvd-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="38" selection-start="593" selection-end="593" vertical-scroll-proportion="0.3024911" vertical-offset="0" max-vertical-offset="843">
+          <folding />
         </state>
       </provider>
     </entry>

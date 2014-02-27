@@ -6,7 +6,7 @@
  * Time: 10:11 PM
  */
 
-class DVD {
+class dvd extends Eloquent {
     public static function populategenre(){
         $query=DB::table('genres');
         $genres=$query->get();
@@ -46,5 +46,62 @@ class DVD {
 
         return $dvds;
     }
+
+
+    public function scopeTitle($query, $title)
+    {
+     return $query->where('title', 'LIKE', "%$title%");
+    }
+    public function scopeRating_id($query, $rating)
+    {
+        if($rating=="ALL"){
+            return $query;
+        }
+        return $query->whereRating_id($rating);
+    }
+    public function scopeGenre_id($query, $genre)
+    {
+        if($genre=="ALL"){
+            return $query;
+        }
+        return $query->whereGenre_id($genre);
+    }
+
+
+
+
+
+
+
+
+
+    public function genre()
+    {
+        return $this->belongsTo('genre');
+    }
+
+    public function format()
+    {
+        return $this->belongsTo('format');
+    }
+
+    public function sound()
+    {
+        return $this->belongsTo('sound');
+    }
+
+    public function rating()
+    {
+        return $this->belongsTo('rating');
+    }
+
+    public function label()
+    {
+        return $this->belongsTo('label');
+    }
+
+
+
+
 
 }

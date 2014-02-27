@@ -2,11 +2,11 @@
 /**
  * Created by PhpStorm.
  * User: AlexSilberman
- * Date: 2/18/14
- * Time: 5:46 PM
+ * Date: 2/22/14
+ * Time: 7:15 PM
  */
 
-class Genre extends Eloquent {
+class Format extends Eloquent {
 
 
 }
