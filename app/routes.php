@@ -44,17 +44,27 @@ Route::get('dvds/create', function()
 
 Route::post('dvds', function()
 {
-    $dvd = new dvd();
-    $dvd->title = Input::get('title');
-    $dvd->rating_id = Input::get('rating');
-    $dvd->genre_id = Input::get('genre');
-    $dvd->label_id = Input::get('label');
-    $dvd->sound_id = Input::get('sound');
-    $dvd->format_id = Input::get('format');
-    $dvd->save();
+    $validation=DVD::validate(Input::all());
+
+    if($validation->passes()){
+
+        $dvd = new dvd();
+        $dvd->title = Input::get('title');
+        $dvd->rating_id = Input::get('rating');
+        $dvd->genre_id = Input::get('genre');
+        $dvd->label_id = Input::get('label');
+        $dvd->sound_id = Input::get('sound');
+        $dvd->format_id = Input::get('format');
+        $dvd->save();
+
+        return Redirect::to('dvds/create')
+            ->with('success', 'Your insertion was completed successfully!');
+
+    }
 
     return Redirect::to('dvds/create')
-        ->with('success', 'Your insertion was completed successfully!');
+        ->withInput()
+        ->with('errors', $validation->messages());
 });
 
 Route::get('dvds', function()
@@ -80,7 +90,27 @@ Route::get('/', function(){
 });
 
 
+Route::get('manga/search', function(){
+   $mangas= new \ITP\API\MangaSearch();
+    $json=$mangas->populate();
 
+   // dd($json);
+
+    return View::make('manga/search', ['mangas' => $json->manga]);
+
+});
+
+Route::get('manga/results', function(){
+    $id=Input::get('chapterid');
+    //dd($id);
+    $mangas= new \ITP\API\MangaSearch();
+    $json=$mangas->getResults($id);
+
+     //dd($json);
+
+    return View::make('manga/results', ['chapters' => $json->chapters, 'manga' => $json]);
+
+});
 
 
 /*
@@ -124,5 +154,6 @@ $songs=Song::take(30)->get();
 });
 
 */
+
 
 ?>

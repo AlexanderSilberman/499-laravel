@@ -14,7 +14,10 @@
 			"app/database/migrations",
 			"app/database/seeds",
 			"app/tests/TestCase.php"
-		]
+		],
+    "psr-0": {
+            "ITP": "./app"
+            }
 	},
 	"scripts": {
 		"post-install-cmd": [
@@ -34,3 +37,4 @@
 	},
 	"minimum-stability": "stable"
 }
+

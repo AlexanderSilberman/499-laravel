@@ -69,6 +69,16 @@ class dvd extends Eloquent {
 
 
 
+    public static function validate($input){
+        return Validator::make($input, [
+            'label' => 'required|integer',
+            'format' => 'required|integer',
+            'genre' => 'required|integer',
+            'sound' => 'required|integer',
+            'rating' => 'required|integer',
+            'title' => 'min:3|alpha_num'
+        ]);
+    }
 
 
 
