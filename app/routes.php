@@ -85,9 +85,40 @@ Route::get('dvds', function()
 Route::get('/songs/search', 'SongController@search');
 //Route::get('/songs', 'SongController@listSongs');
 
+/*
 Route::get('/', function(){
    return View::make('hello');
 });
+*/
+
+Route::get('/', function()
+{
+    $restaurants=Restaurant::populate();
+	return View::make('Yelp/display', ['restaurants'=>$restaurants]);
+});
+
+
+Route::get('restaurants/{id}/reviews', function($id)
+{	
+	$restaurants=Single::populateSingle($id);
+	
+	if($restaurants->facebook_page!=NULL){
+		
+		$fbpage = new \Yelp\Facebook\FacebookPage($restaurants->facebook_page);
+		$fbpage = $fbpage->get();
+	
+	}
+	else{
+		$fbpage=NULL;
+	}
+	$reviews=Single::getReviews($id);
+		
+	return View::make('Yelp/reviews', ['reviews'=>$reviews, 'restaurants'=>$restaurants, 'facebook'=>$fbpage]);
+	
+});
+
+
+
 
 
 Route::get('manga/search', function(){
